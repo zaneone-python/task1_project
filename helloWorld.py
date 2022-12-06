@@ -1,6 +1,7 @@
-# the program prints out Git is awesome!
+
 
 def hello():
-    print("Git is awesome!")
+    inp = input("Enter a few words: ")
+    print(inp)
 
 hello()
